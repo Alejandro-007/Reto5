@@ -17,7 +17,7 @@ public abstract class Pokemon {
         this.nombre = nombre;
     }
 
-    public Byte getNivel() {
+    public byte getNivel() {
         return nivel;
     }
 
